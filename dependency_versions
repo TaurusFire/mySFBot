@@ -1,0 +1,11 @@
+Versions (pip version 19.1 used for project)
+
+Python 3.8 
+
+Setting up a virtual environment with these versions of modules is recommended
+Gym 0.21.0
+Gym-retro 0.8.0
+Setuptools 65.5
+Stable-baselines3 1.7.0
+Opencv-python 4.8.0.76
+Optuna 3.3.0
