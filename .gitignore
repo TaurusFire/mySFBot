@@ -1,1 +1,7 @@
 .venv/
+SFROM/
+A2Clogs/
+A2Copt/
+DQNlogs/
+DQNopt/
+.DS_Store

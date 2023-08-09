@@ -9,6 +9,8 @@ Setuptools 65.5
 Stable-baselines3 1.7.0
 Opencv-python 4.8.0.76
 Optuna 3.3.0
+torch 2.0.1
+tensorboard 2.13.0 
 
 StreetFighterII Champion Edition ROM not provided.
 Roms should be in a separate folder. 
