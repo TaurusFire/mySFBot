@@ -4,6 +4,8 @@ The code in this repo is mostly based on the Street Fighter II tutorial by Nicho
 The code for the discretizer (used for the DQN model) was taken from OpenAI 
 at: https://github.com/openai/retro/blob/master/retro/examples/discretizer.py
 
+This code was put together for my master's project on reinforcement learning: "The Use Of Reinforcement Learning
+Methods in Creating Strong Fighting Game AI"
 
 Version Dependencies:
 Setting up a virtual environment with these versions is highly recommended, since at the time of creation, 
@@ -29,6 +31,8 @@ To run the bot in your virtual environment, use the Test versions of the files (
 Ensure that the relevant bots are also downloaded on your machine. 
 For example, for the A2C_SFBotTest file, test either of the A2C_1000000, A2C_5000000 or A2CNR_5000000 bots.
 
-To get the A2C_SFBot-NewReward test to work, at the path in your virtual environment:
-"/lib/python3.8/site-packages/retro/data/stable/StreetFighterIISpecialChampionEdition-Genesis",
-paste the 'custom_scenario.json' file.
+To get the A2C_SFBot-NewReward test to work, at the 
+"/lib/python3.8/site-packages/retro/data/stable/StreetFighterIISpecialChampionEdition-Genesis" 
+path inside your virtual environment, paste the 'custom_scenario.json' file.
+
+
