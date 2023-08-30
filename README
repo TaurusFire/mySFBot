@@ -5,7 +5,7 @@ The code for the discretizer (used for the DQN model) was taken from OpenAI
 at: https://github.com/openai/retro/blob/master/retro/examples/discretizer.py
 
 This code was put together for my master's project on reinforcement learning: "The Use Of Reinforcement Learning
-Methods in Creating Strong Fighting Game AI"
+Methods in Creating Strong Fighting Game AI".
 
 Version Dependencies:
 Setting up a virtual environment with these versions is highly recommended, since at the time of creation, 
