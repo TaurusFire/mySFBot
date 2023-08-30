@@ -4,10 +4,10 @@ The code for the discretizer (used for the DQN model) was taken from OpenAI at: 
 
 
 Version Dependencies:
-Setting up a virtual environment with these versions is highly recommended, since at the time of creation, using the current module versions does not work.
+Setting up a virtual environment with these versions is highly recommended, since at the time of creation, the current module versions do not work together.
 
 Python 3.8 
-pip version 19.1 used for project
+pip 19.1
 Gym 0.21.0
 Gym-retro 0.8.0
 Setuptools 65.5
@@ -22,4 +22,4 @@ Roms should be in a separate folder.
 Use the terminal to navigate to the ROM folder and import using "python -m retro.import ."
 Should receive message saying "Imported x games"
 
-To run the bot in your virtual environment, use the Test versions of the files (e.g. A2C_SFBotTest). Ensure that the relevant bots are also downloaded on your machine. 
+To run the bot in your virtual environment, use the Test versions of the files (e.g. A2C_SFBotTest). Ensure that the relevant bots are also downloaded on your machine. For example, for the A2C_SFBotTest file, test either of the A2C_1000000, A2C_5000000 or A2CNR_5000000 bots.
