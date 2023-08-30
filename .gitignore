@@ -7,4 +7,3 @@ DQNopt/
 .DS_Store
 PPOlogs/
 PPOopt/
-trained_bots/
